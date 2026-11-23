@@ -1,0 +1,12 @@
+.venv/
+.build/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log
+*.db
+latest_esp32.jpg
+smartdoor-server/camera_settings.json
+smartdoor-server/thresholds_settings.json
+smartdoor-server/static/captures/
+wifi_config.h
